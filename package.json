@@ -1,19 +1,20 @@
 {
-  "name": "ni",
+  "name": "testla",
   "author": "Josh Perez <josh@goatslacker.com>",
   "version": "0.0.1",
-  "description": "test",
+  "description": "An opinionated and lightweight testing framework",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/goatslacker/ni.git"
+    "url": "https://github.com/goatslacker/testla.git"
   },
 
-  "main": "index.js",
+  "main": "lib/index.js",
 
   "dependencies": {
-    "getParameterNames": "*",
-    "lz": "*"
+    "dependency-injector": "*",
+    "fantasy-promises": "*",
+    "nodewatch": "*"
   },
 
   "engines": {
