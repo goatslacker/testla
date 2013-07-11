@@ -1,27 +1,22 @@
 {
   "name": "testla",
   "author": "Josh Perez <josh@goatslacker.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An opinionated and lightweight testing framework",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/goatslacker/testla.git"
   },
-
   "main": "lib/index.js",
-
   "bundledDependencies": [
     "fn.js",
     "asserts.js",
     "observer.js"
   ],
-
   "dependencies": {
     "dependency-injector": "*",
     "fantasy-promises": "*"
   },
-
   "engines": {
     "node": ">= 0.4.0"
   }
