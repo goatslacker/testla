@@ -1,7 +1,7 @@
 {
   "name": "testla",
   "author": "Josh Perez <josh@goatslacker.com>",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An opinionated and lightweight testing framework",
   "repository": {
     "type": "git",
