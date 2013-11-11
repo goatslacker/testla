@@ -1,3 +1,6 @@
+[![NPM version](https://badge.fury.io/js/testla.png)](http://badge.fury.io/js/testla)
+[![Dependency Status](https://david-dm.org/goatslacker/testla.png)](https://david-dm.org/goatslacker/testla)
+
 # testla
 
 > an opinionated and lightweight testing framework for the browser and node.js
