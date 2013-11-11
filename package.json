@@ -3,23 +3,27 @@
   "author": "Josh Perez <josh@goatslacker.com>",
   "version": "0.0.8",
   "description": "An opinionated and lightweight testing framework",
+  "license": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/goatslacker/testla.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goatslacker/testla/issues"
   },
   "main": "lib/index.js",
   "bin": {
     "testla": "./bin/testla"
   },
-  "bundledDependencies": [
-    "fn.js",
+  "dependencies": {
+    "dependency-injector": "~0.0.5",
+    "fantasy-promises": "~0.1.0"
+  },
+  "bundleDependencies": [
     "asserts.js",
+    "fn.js",
     "observer.js"
   ],
-  "dependencies": {
-    "dependency-injector": "*",
-    "fantasy-promises": "*"
-  },
   "engines": {
     "node": ">= 0.4.0"
   }
