@@ -132,3 +132,7 @@ the test as asynchronous and inform testla to wait for the test to finish.
   return promise
 }
 ```
+
+# License
+
+[MIT LICENSE](http://josh.mit-license.org)

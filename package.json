@@ -3,7 +3,7 @@
   "author": "Josh Perez <josh@goatslacker.com>",
   "version": "0.0.8",
   "description": "An opinionated and lightweight testing framework",
-  "license": "",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/goatslacker/testla.git"
