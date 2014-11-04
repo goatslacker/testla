@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "dependency-injector": "~0.0.5",
-    "fantasy-promises": "~0.1.0"
+    "fantasy-promises": "^0.1.0"
   },
   "bundleDependencies": [
     "asserts.js",
