@@ -16,6 +16,7 @@
     "testla": "./bin/testla"
   },
   "dependencies": {
+    "alt": "^0.12.0",
     "dependency-injector": "~0.0.5",
     "fantasy-promises": "^0.1.0"
   },
